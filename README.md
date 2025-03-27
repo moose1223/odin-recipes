@@ -1,1 +1,1 @@
-This Project is to demostrate my abilities with HTLM that I have learned through The Odin Project.
+This Project is to demonstrate my abilities with HTLM that I have learned through The Odin Project.
